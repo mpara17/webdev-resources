@@ -10,7 +10,8 @@ This should not be a substitute for the camp, but rather serve as resources you 
  ### Best Sites for Learning ANYTHING Web Development Related
  * [W3Schools](https://www.w3schools.com/)
  * [FreeCodeCamp](https://www.freecodecamp.org/)
- * [Codecademy](https://www.codecademy.com/catalog/subject/web-development) 
+ * [Codecademy](https://www.codecademy.com/catalog/subject/web-development)
+ * [Django Tutorial](https://tutorial.djangogirls.org/en/)
  
  ### Resources for Designs
  * [Google Fonts](https://fonts.google.com/)
