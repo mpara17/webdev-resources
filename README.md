@@ -8,19 +8,19 @@ This should not be a substitute for the camp, but rather serve as resources you 
 ~ Feel free to make a pull request and add anything to this repo!~
  
  ### Best Sites for Learning ANYTHING Web Development Related
- * [W3Schools] (https://www.w3schools.com/)
- * [FreeCodeCamp] (https://www.freecodecamp.org/)
- * [Codecademy] (https://www.codecademy.com/catalog/subject/web-development) 
+ * [W3Schools](https://www.w3schools.com/)
+ * [FreeCodeCamp](https://www.freecodecamp.org/)
+ * [Codecademy](https://www.codecademy.com/catalog/subject/web-development) 
  
  ### Resources for Designs
- * [Google Fonts] (https://fonts.google.com/)
- * [HTML ColorCode] (https://htmlcolorcodes.com/)
- * [unDraw] (https://undraw.co/)
- * [emojipedia] (https://emojipedia.org/)
+ * [Google Fonts](https://fonts.google.com/)
+ * [HTML ColorCode](https://htmlcolorcodes.com/)
+ * [unDraw](https://undraw.co/)
+ * [emojipedia](https://emojipedia.org/)
  
  ### Site Templates
- * [HTML5UP] (https://html5up.net/)
- * [Some more templates] (https://html.com/resources/free-html-templates/)
+ * [HTML5UP](https://html5up.net/)
+ * [Some more templates](https://html.com/resources/free-html-templates/)
  
  ### EXNTENSION: Building Your Own KWK Porfolio! 
  Throughout the duration of the web development camp, you will be building a lot of very cool projects so why not show them off? A porfolio would be a great way to showcase all the projects you've done to show off to your friends, family, recruiters, etc. 
