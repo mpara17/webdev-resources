@@ -26,7 +26,7 @@ This should not be a substitute for the camp, but rather serve as resources you 
  ### EXNTENSION: Building Your Own KWK Porfolio! 
  Throughout the duration of the web development camp, you will be building a lot of very cool projects so why not show them off? A porfolio would be a great way to showcase all the projects you've done to show off to your friends, family, recruiters, etc. 
  
-See this [basic tutorial](https://medium.com/techtogether/how-to-make-your-first-portfolio-hosted-on-github-1e5940853fcc) I wrote on how to host your website through Github pages
+See this [tutorial](https://medium.com/techtogether/how-to-make-your-first-portfolio-hosted-on-github-1e5940853fcc) I wrote on how to host your website through Github pages
 
 
  
