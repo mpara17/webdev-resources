@@ -38,6 +38,8 @@ See this [tutorial](https://medium.com/techtogether/how-to-make-your-first-portf
 * [Practicing How to Use Git](https://github.com/benthayer/git-gud)
 * [Importance of Having a good READ.ME](https://github.com/noffle/art-of-readme?fbclid=IwAR3sFPA8KV71i2YCESls4fCqIxvTzbB0eiJGEAiDMUgs1rfZ0Rv1YN0KsOY) - very useful to include for your final project!
 * [Ways to get involved with Women in Tech!](https://github.com/nishapant/Women-in-Tech-Resources)
+* [Adding Google Analytics to Webite](https://www.pair.com/support/kb/how-to-google-analytics-to-an-html-website/)
+* [How to make a Chrome Extension](https://developer.chrome.com/extensions/getstarted) - this would be a good extension for your quote generator project!
 
 
  
