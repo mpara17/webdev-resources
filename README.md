@@ -28,10 +28,15 @@ This should not be a substitute for the camp, but rather serve as resources you 
  * [Figma](https://www.figma.com/blog/)
  * [Check this Medium blog out](https://medium.com/@denisz.design/the-9-best-go-to-prototyping-tools-for-designers-in-2019-296b341a51a2)
  
- ### EXNTENSION: Building Your Own KWK Porfolio! 
+ ### EXTENSION: Building Your Own KWK Porfolio! 
  Throughout the duration of the web development camp, you will be building a lot of very cool projects so why not show them off? A porfolio would be a great way to showcase all the projects you've done to show off to your friends, family, recruiters, etc. 
  
 See this [tutorial](https://medium.com/techtogether/how-to-make-your-first-portfolio-hosted-on-github-1e5940853fcc) I wrote on how to host your website through Github pages
+
+### ADDITIONAL RESOURCES
+* [Practicing How to Use Git](https://github.com/benthayer/git-gud)
+* [Importance of Having a good READ.ME](https://github.com/noffle/art-of-readme?fbclid=IwAR3sFPA8KV71i2YCESls4fCqIxvTzbB0eiJGEAiDMUgs1rfZ0Rv1YN0KsOY) - very useful to include for your final project!
+* [Ways to get involved with Women in Tech!](https://github.com/nishapant/Women-in-Tech-Resources)
 
 
  
