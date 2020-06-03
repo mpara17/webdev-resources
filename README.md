@@ -23,7 +23,7 @@ This should not be a substitute for the camp, but rather serve as resources you 
  * [HTML5UP](https://html5up.net/)
  * [Some more templates](https://html.com/resources/free-html-templates/)
  
- ### 🛠️ Tools to use for prototyping apps or websites
+ ### Tools to use for prototyping apps or websites🛠️
  * [Proto.io](https://proto.io/) - keep in mind you only have a 14 day free trial 
  * [Figma](https://www.figma.com/blog/)
  * [Check this Medium blog out](https://medium.com/@denisz.design/the-9-best-go-to-prototyping-tools-for-designers-in-2019-296b341a51a2)
