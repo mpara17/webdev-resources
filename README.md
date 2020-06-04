@@ -1,7 +1,7 @@
 # Web Development Resources
 
 ## Hello 👋
- May this repository stand as a resource guide that will help you navigate through the Kode with Klossy camp as well as for future reference for continuing to build your skills for web development. 
+ May this repository stand as a resource guide that will help you navigate through the Kode with Klossy camp as well as for future reference for continuing to build your skills for web development. For anyone who is not involved with the Kode With Klossy camp, you can still refer to this guide as starting points to learning Web Development! 
  
 This should not be a substitute for the camp, but rather serve as resources you can use to help your learning and expand your abilities after the camp. 
 
@@ -37,6 +37,7 @@ See this [tutorial](https://medium.com/techtogether/how-to-make-your-first-portf
 Here is another [resource](https://github.dev/) to help you build a portfolio to showcase your projects! If you are a student and have a school email, you can register for [Github Pro](https://education.github.com/pack) that gives you free tools to use like a .me domain and other resources
 
 ### ADDITIONAL RESOURCES
+* [Introduction to Github](https://lab.github.com/githubtraining/introduction-to-github)
 * [Practicing How to Use Git](https://github.com/benthayer/git-gud)
 * [Importance of Having a good READ.ME](https://github.com/noffle/art-of-readme?fbclid=IwAR3sFPA8KV71i2YCESls4fCqIxvTzbB0eiJGEAiDMUgs1rfZ0Rv1YN0KsOY) - very useful to include for your final project!
 * [Ways to get involved with Women in Tech!](https://github.com/nishapant/Women-in-Tech-Resources)
