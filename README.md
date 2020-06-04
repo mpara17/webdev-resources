@@ -1,6 +1,6 @@
-# Kode With Klossy Scholar Web Development Resources
+# Web Development Resources
 
-## Hello, welcome to Kode With Klossy! 👋
+## Hello 👋
  May this repository stand as a resource guide that will help you navigate through the camp as well as for future reference for continuing to build your skills for web development. 
  
 This should not be a substitute for the camp, but rather serve as resources you can use to help your learning and expand your abilities after the camp. 
