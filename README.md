@@ -34,6 +34,8 @@ This should not be a substitute for the camp, but rather serve as resources you 
  
 See this [tutorial](https://medium.com/techtogether/how-to-make-your-first-portfolio-hosted-on-github-1e5940853fcc) I wrote on how to host your website through Github pages
 
+Here is another [resource](https://github.dev/) to help you build a portfolio to showcase your projects! If you are a student and have a school email, you can register for [Github Pro](https://education.github.com/pack) that gives you free tools to use like a .me domain and other resources
+
 ### ADDITIONAL RESOURCES
 * [Practicing How to Use Git](https://github.com/benthayer/git-gud)
 * [Importance of Having a good READ.ME](https://github.com/noffle/art-of-readme?fbclid=IwAR3sFPA8KV71i2YCESls4fCqIxvTzbB0eiJGEAiDMUgs1rfZ0Rv1YN0KsOY) - very useful to include for your final project!
