@@ -36,10 +36,14 @@ See this [tutorial](https://medium.com/techtogether/how-to-make-your-first-portf
 
 Here is another [resource](https://github.dev/) to help you build a portfolio to showcase your projects! If you are a student and have a school email, you can register for [Github Pro](https://education.github.com/pack) that gives you free tools to use like a .me domain and other resources
 
-### ADDITIONAL RESOURCES
+### Github 
 * [Introduction to Github](https://lab.github.com/githubtraining/introduction-to-github)
 * [Practicing How to Use Git](https://github.com/benthayer/git-gud)
 * [Importance of Having a good READ.ME](https://github.com/noffle/art-of-readme?fbclid=IwAR3sFPA8KV71i2YCESls4fCqIxvTzbB0eiJGEAiDMUgs1rfZ0Rv1YN0KsOY) - very useful to include for your final project!
+* [Github Student Developer Pack](https://education.github.com/pack)
+* [Showcase Portfolio through Github Pages](https://github.dev/)
+
+### ADDITIONAL RESOURCES
 * [Ways to get involved with Women in Tech!](https://github.com/nishapant/Women-in-Tech-Resources)
 * [Adding Google Analytics to Webite](https://www.pair.com/support/kb/how-to-google-analytics-to-an-html-website/)
 * [How to make a Chrome Extension](https://developer.chrome.com/extensions/getstarted) - this would be a good extension for your quote generator project!
