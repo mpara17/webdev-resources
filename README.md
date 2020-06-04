@@ -14,14 +14,15 @@ This should not be a substitute for the camp, but rather serve as resources you 
  * [Django Tutorial](https://tutorial.djangogirls.org/en/)
  * [ReactJS](https://reactjs.org/tutorial/tutorial.html)
  
- ### Resources for Designs
+ ### Design Resources
  * [Google Fonts](https://fonts.google.com/)
  * [HTML ColorCode](https://htmlcolorcodes.com/)
  * [unDraw](https://undraw.co/)
  * [emojipedia](https://emojipedia.org/)
  
- ### Site Templates
+ ### Templates
  * [HTML5UP](https://html5up.net/)
+ * [JSON Resume](https://jsonresume.org/getting-started/)
  * [Some more templates](https://html.com/resources/free-html-templates/)
  
  ### Tools to use for prototyping apps or websites🛠️
