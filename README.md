@@ -1,11 +1,11 @@
 # Web Development Resources
 
 ## Hello 👋
- May this repository stand as a resource guide that will help you navigate through the camp as well as for future reference for continuing to build your skills for web development. 
+ May this repository stand as a resource guide that will help you navigate through the Kode with Klossy camp as well as for future reference for continuing to build your skills for web development. 
  
 This should not be a substitute for the camp, but rather serve as resources you can use to help your learning and expand your abilities after the camp. 
 
-~ Feel free to make a pull request and add anything to this repo!~
+~ Feel free to make a pull request and add anything to this repo! ~
  
  ### Best Sites for Learning ANYTHING Web Development Related
  * [W3Schools](https://www.w3schools.com/)
