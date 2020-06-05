@@ -14,9 +14,10 @@ This should not be a substitute for the camp, but rather serve as resources you 
  * [Django Tutorial](https://tutorial.djangogirls.org/en/)
  * [ReactJS](https://reactjs.org/tutorial/tutorial.html)
  
- ### Design Resources
+ ### Designs
  * [Google Fonts](https://fonts.google.com/)
  * [HTML ColorCode](https://htmlcolorcodes.com/)
+ * [Font Awesome](https://fontawesome.com/v4.7.0/icons/)
  * [unDraw](https://undraw.co/)
  * [emojipedia](https://emojipedia.org/)
  
