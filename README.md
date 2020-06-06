@@ -20,7 +20,7 @@ This should not be a substitute for the camp, but rather serve as resources you 
  * [Font Awesome](https://fontawesome.com/v4.7.0/icons/)
  * [unDraw](https://undraw.co/)
  * [emojipedia](https://emojipedia.org/)
- * [Dribble] (https://dribbble.com/?fbclid=IwAR3c_YUBr-wLjHWvIQcARBeM7UG2ZYd02_I8U4zy2oUSUWkTtFIivoxqHxA)
+ * [Dribble](https://dribbble.com/?fbclid=IwAR3c_YUBr-wLjHWvIQcARBeM7UG2ZYd02_I8U4zy2oUSUWkTtFIivoxqHxA)
  
  ### Templates
  * [HTML5UP](https://html5up.net/)
