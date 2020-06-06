@@ -20,6 +20,7 @@ This should not be a substitute for the camp, but rather serve as resources you 
  * [Font Awesome](https://fontawesome.com/v4.7.0/icons/)
  * [unDraw](https://undraw.co/)
  * [emojipedia](https://emojipedia.org/)
+ * [Dribble] (https://dribbble.com/?fbclid=IwAR3c_YUBr-wLjHWvIQcARBeM7UG2ZYd02_I8U4zy2oUSUWkTtFIivoxqHxA)
  
  ### Templates
  * [HTML5UP](https://html5up.net/)
@@ -34,6 +35,7 @@ This should not be a substitute for the camp, but rather serve as resources you 
  ### Github 
 * [Introduction to Github](https://lab.github.com/githubtraining/introduction-to-github)
 * [Practicing How to Use Git](https://github.com/benthayer/git-gud)
+* [Gitbook](https://www.gitbook.com/)
 * [Importance of Having a good READ.ME](https://github.com/noffle/art-of-readme?fbclid=IwAR3sFPA8KV71i2YCESls4fCqIxvTzbB0eiJGEAiDMUgs1rfZ0Rv1YN0KsOY) - very useful to include for your final project!
 * [Github Student Developer Pack](https://education.github.com/pack)
 * [Showcase Portfolio through Github Pages](https://github.dev/)
