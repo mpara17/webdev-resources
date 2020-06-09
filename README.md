@@ -60,3 +60,4 @@ Here is another [resource](https://github.dev/) to help you build a portfolio to
 * [Ways to get involved with Women in Tech!](https://github.com/nishapant/Women-in-Tech-Resources)
 * [Adding Google Analytics to Website](https://www.pair.com/support/kb/how-to-google-analytics-to-an-html-website/)
 * [How to make a Chrome Extension](https://developer.chrome.com/extensions/getstarted) - this would be a good extension for your quote generator project!
+* [Fork this repo](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
