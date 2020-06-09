@@ -27,6 +27,7 @@ This should not be a substitute for the camp, but rather serve as resources you 
  ### Templates
  * [HTML5UP](https://html5up.net/)
  * [JSON Resume](https://jsonresume.org/getting-started/)
+ * [Terminal-like Portfolio](https://github.com/CodeNerve/CodeNerve.github.io)
  * [Some more templates](https://html.com/resources/free-html-templates/)
  * [w3 Schools Bootstrap Theme](https://www.w3schools.com/bootstrap4/bootstrap_templates.asp) Bootstrap is a front-end framework that allows your site to be more responsive across all devices!
 
