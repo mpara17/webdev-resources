@@ -44,6 +44,7 @@ This should not be a substitute for the camp, but rather serve as resources you 
 * [Practicing How to Use Git](https://github.com/benthayer/git-gud)
 * [Gitbook](https://www.gitbook.com/)
 * [Importance of Having a good READ.ME](https://github.com/noffle/art-of-readme?fbclid=IwAR3sFPA8KV71i2YCESls4fCqIxvTzbB0eiJGEAiDMUgs1rfZ0Rv1YN0KsOY) - very useful to include for your final project!
+* [Why you need a clear README if you want a "coding" job](https://www.reddit.com/r/cscareerquestions/comments/h17blk/always_write_a_clear_readme_if_you_want_to_find_a/) 
 * [Github Student Developer Pack](https://education.github.com/pack)
 * [Showcase Portfolio through Github Pages](https://github.dev/)
 
