@@ -13,8 +13,8 @@ This should not be a substitute for the camp, but rather serve as resources you 
  * [Codecademy](https://www.codecademy.com/catalog/subject/web-development)
  * [Django Tutorial](https://tutorial.djangogirls.org/en/)
  * [ReactJS](https://reactjs.org/tutorial/tutorial.html)
-  - [Setting Up React](https://www.codecademy.com/articles/how-to-create-a-react-app)
-  - [More React](https://reactjs.org/docs/create-a-new-react-app.html)
+    * [Setting Up React](https://www.codecademy.com/articles/how-to-create-a-react-app)
+    * [More React](https://reactjs.org/docs/create-a-new-react-app.html)
  * [Mozilla](https://developer.mozilla.org/en-US/docs/Learn)
  * [LearnJS](https://github.com/CodeNerve/LearnJavaScript)
 
