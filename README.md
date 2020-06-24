@@ -1,4 +1,4 @@
-# Web Development Resources
+# Web Development Resources💻
 
 ## Hello 👋
  May this repository stand as a resource guide that will help you navigate through the Kode with Klossy camp as well as for future reference for continuing to build your skills for web development. For anyone who is not involved with the Kode With Klossy camp, you can still refer to this guide as starting points to learning Web Development!
