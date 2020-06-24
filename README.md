@@ -70,3 +70,7 @@ Here is another [resource](https://github.dev/) to help you build a portfolio to
 * [Fork this repo](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 * [Contributing to Open Source](https://opensource.guide/how-to-contribute/)
 
+### CHALLENGES
+* [7 Days, 7 Websites](https://www.freecodecamp.org/news/the-7days7websites-coding-challenge/)
+* [#100DaysOfCode](https://www.100daysofcode.com/)
+
