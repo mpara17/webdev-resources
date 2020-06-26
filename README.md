@@ -70,7 +70,7 @@ Here is another [resource](https://github.dev/) to help you build a portfolio to
 * [How to make a Chrome Extension](https://developer.chrome.com/extensions/getstarted) - this would be a good extension for your quote generator project!
 * [Fork this repo](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 * [Contributing to Open Source](https://opensource.guide/how-to-contribute/)
-
+* [Missing Semester of your CS Education](https://missing.csail.mit.edu/)
 ### CHALLENGES
 * [7 Days, 7 Websites](https://www.freecodecamp.org/news/the-7days7websites-coding-challenge/)
 * [#100DaysOfCode](https://www.100daysofcode.com/)
