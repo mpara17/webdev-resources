@@ -74,4 +74,5 @@ Here is another [resource](https://github.dev/) to help you build a portfolio to
 ### CHALLENGES
 * [7 Days, 7 Websites](https://www.freecodecamp.org/news/the-7days7websites-coding-challenge/)
 * [#100DaysOfCode](https://www.100daysofcode.com/)
+* [Contributing to Open Source Projects](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
 
