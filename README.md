@@ -1,7 +1,7 @@
 # Web Development Resources💻
 
 ## Hello 👋
- This repository was made initially as a resource guide for students participating in the Kode with Klossy Web Development Camps for Summer 2020, however, it is now a crowdsource place full of useful sources to learn about web development along other with other useful tools - such as navigating Git and using Github - as you navigate as a developer. 
+ This repository was made initially as a resource guide for students participating in the Kode with Klossy Web Development Camps for Summer 2020, however, it is also now a crowdsource place full of useful sources to learn about web development along other with other useful tools - such as navigating Git and using Github - as you navigate your time as a developer. 
  
  I will be continually updating this repository throughout time, however, feel free to fork the repo or make contributions here!
 
@@ -36,7 +36,7 @@
  * [Some more templates](https://html.com/resources/free-html-templates/)
  * [w3 Schools Bootstrap Theme](https://www.w3schools.com/bootstrap4/bootstrap_templates.asp) Bootstrap is a front-end framework that allows your site to be more responsive across all devices!
 
- ### Tools to use for prototyping apps or websites🛠️
+ ### 🛠️ Tools to use for prototyping apps or websites
  * [Proto.io](https://proto.io/) - keep in mind you only have a 14 day free trial
  * [Figma](https://www.figma.com/blog/)
  * [Bubble.io](https://bubble.io/) Easy and free tool to create mockups
@@ -53,7 +53,7 @@
 * [Showcase Portfolio through Github Pages](https://github.dev/)
 * [FORK this repo](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 
- ### Free Online IDEs to help you get started
+ ### 👩‍💻 👨‍💻 Free Online IDEs to help you get started
 * [Repl.it](https://repl.it/)
 * [Code Pen](https://codepen.io/)
 * [Glitch](https://glitch.com/)
@@ -72,7 +72,13 @@ Here is another [resource](https://github.dev/) to help you build a portfolio to
 * [Contributing to Open Source](https://opensource.guide/how-to-contribute/)
 * [Missing Semester of your CS Education](https://missing.csail.mit.edu/)
 
-### CHALLENGES
+### 📰 BLOGS TO CHECK OUT 
+* [freeCodeCamp](https://www.freecodecamp.org/news/)
+* [CodePath] (https://blog.codepath.org/)
+* [Tech Together](https://medium.com/techtogether)
+* [Better Programming](https://medium.com/better-programming)
+
+### ✅ CHALLENGES
 * [7 Days, 7 Websites](https://www.freecodecamp.org/news/the-7days7websites-coding-challenge/)
 * [#100DaysOfCode](https://www.100daysofcode.com/)
 * [Contributing to Open Source Projects](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
