@@ -1,7 +1,7 @@
 # Web Development Resources💻
 
 ## Hello 👋
- This repository was made initially as a resource guide for students participating in the Kode with Klossy Web Development Camps for Summer 2020, however, it is now a crowdsource place full of useful sources to learn about web development along other with other useful tools - such as navigating Git and using Github - as you navigate as a developer. \
+ This repository was made initially as a resource guide for students participating in the Kode with Klossy Web Development Camps for Summer 2020, however, it is now a crowdsource place full of useful sources to learn about web development along other with other useful tools - such as navigating Git and using Github - as you navigate as a developer. 
  
  I will be continually updating this repository throughout time, however, feel free to fork the repo or make contributions here!
 
