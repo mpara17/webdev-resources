@@ -51,6 +51,7 @@
 * [Why you need a clear README if you want a "coding" job](https://www.reddit.com/r/cscareerquestions/comments/h17blk/always_write_a_clear_readme_if_you_want_to_find_a/) 
 * [Github Student Developer Pack](https://education.github.com/pack)
 * [Showcase Portfolio through Github Pages](https://github.dev/)
+* [FORK this repo](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 
  ### Free Online IDEs to help you get started
 * [Repl.it](https://repl.it/)
@@ -68,7 +69,6 @@ Here is another [resource](https://github.dev/) to help you build a portfolio to
 * [Ways to get involved with Women in Tech!](https://github.com/nishapant/Women-in-Tech-Resources)
 * [Adding Google Analytics to Website](https://www.pair.com/support/kb/how-to-google-analytics-to-an-html-website/)
 * [How to make a Chrome Extension](https://developer.chrome.com/extensions/getstarted) - this would be a good extension for your quote generator project!
-* [Fork this repo](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 * [Contributing to Open Source](https://opensource.guide/how-to-contribute/)
 * [Missing Semester of your CS Education](https://missing.csail.mit.edu/)
 
