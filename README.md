@@ -16,6 +16,7 @@ This should not be a substitute for the camp, but rather serve as resources you 
     * [Setting Up React](https://www.codecademy.com/articles/how-to-create-a-react-app)
     * [More React](https://reactjs.org/docs/create-a-new-react-app.html)
     * [Practicing React.js alongside s'more resources](https://github.com/hack4impact-uiuc/react-exercise)
+    * [Mini Web Dev Bootcamp](https://www.notion.so/Curriculum-ca431096426b4fd1968ac49121ff2fdb)
  * [Mozilla](https://developer.mozilla.org/en-US/docs/Learn)
  * [LearnJS](https://github.com/CodeNerve/LearnJavaScript)
 
