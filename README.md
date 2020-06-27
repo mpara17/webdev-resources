@@ -67,14 +67,15 @@ Here is another [resource](https://github.dev/) to help you build a portfolio to
 
 ### ADDITIONAL RESOURCES
 * [Ways to get involved with Women in Tech!](https://github.com/nishapant/Women-in-Tech-Resources)
+* [Impactful](https://weareimpactful.org/?fbclid=IwAR1w5zp9XhK1jcCj0DVCttMCtOMOZt7AAQaf6x3nZJvBU76MuwN2OROM7a4#home)
 * [Adding Google Analytics to Website](https://www.pair.com/support/kb/how-to-google-analytics-to-an-html-website/)
-* [How to make a Chrome Extension](https://developer.chrome.com/extensions/getstarted) - this would be a good extension for your quote generator project!
+* [How to make a Chrome Extension](https://developer.chrome.com/extensions/getstarted) 
 * [Contributing to Open Source](https://opensource.guide/how-to-contribute/)
 * [Missing Semester of your CS Education](https://missing.csail.mit.edu/)
 
 ### 📰 BLOGS TO CHECK OUT 
 * [freeCodeCamp](https://www.freecodecamp.org/news/)
-* [CodePath] (https://blog.codepath.org/)
+* [CodePath](https://blog.codepath.org/)
 * [Tech Together](https://medium.com/techtogether)
 * [Better Programming](https://medium.com/better-programming)
 
