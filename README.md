@@ -1,11 +1,9 @@
 # Web Development Resources💻
 
 ## Hello 👋
- May this repository stand as a resource guide that will help you navigate through the Kode with Klossy camp as well as for future reference for continuing to build your skills for web development. For anyone who is not involved with the Kode With Klossy camp, you can still refer to this guide as starting points to learning Web Development!
-
-This should not be a substitute for the camp, but rather serve as resources you can use to help your learning and expand your abilities after the camp.
-
-~ Feel free to make a pull request and add anything to this repo! ~
+ This repository was made initially as a resource guide for students participating in the Kode with Klossy Web Development Camps for Summer 2020, however, it is now a crowdsource place full of useful sources to learn about web development along other with other useful tools - such as navigating Git and using Github - as you navigate as a developer. \
+ 
+ I will be continually updating this repository throughout time, however, feel free to fork the repo or make contributions here!
 
  ### Best Sites for Learning ANYTHING Web Development Related
  * [W3Schools](https://www.w3schools.com/)
@@ -28,6 +26,7 @@ This should not be a substitute for the camp, but rather serve as resources you 
  * [emojipedia](https://emojipedia.org/)
  * [Dribble](https://dribbble.com/?fbclid=IwAR3c_YUBr-wLjHWvIQcARBeM7UG2ZYd02_I8U4zy2oUSUWkTtFIivoxqHxA)
  * [CSS Animated & Gradient Background](https://uigradients.com/#SandtoBlue)
+ * [Bootstrap](https://getbootstrap.com/)
 
  ### Templates
  * [HTML5UP](https://html5up.net/)
@@ -72,8 +71,11 @@ Here is another [resource](https://github.dev/) to help you build a portfolio to
 * [Fork this repo](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 * [Contributing to Open Source](https://opensource.guide/how-to-contribute/)
 * [Missing Semester of your CS Education](https://missing.csail.mit.edu/)
+
 ### CHALLENGES
 * [7 Days, 7 Websites](https://www.freecodecamp.org/news/the-7days7websites-coding-challenge/)
 * [#100DaysOfCode](https://www.100daysofcode.com/)
 * [Contributing to Open Source Projects](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
+* [List of Hackathons](https://mlh.io/seasons/na-2020/events)
+
 
