@@ -17,6 +17,7 @@
     * [Mini Web Dev Bootcamp](https://www.notion.so/Curriculum-ca431096426b4fd1968ac49121ff2fdb)
  * [Mozilla](https://developer.mozilla.org/en-US/docs/Learn)
  * [LearnJS](https://github.com/CodeNerve/LearnJavaScript)
+ * [Technotica Curriculum](https://github.com/Techtonica/curriculum)
 
  ### Designs
  * [Google Fonts](https://fonts.google.com/)
