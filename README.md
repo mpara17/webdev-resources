@@ -44,6 +44,7 @@
  * [Check this Medium blog out](https://medium.com/@denisz.design/the-9-best-go-to-prototyping-tools-for-designers-in-2019-296b341a51a2)
 
  ### Github
+* [Github Guides](https://guides.github.com/activities/hello-world/)
 * [Introduction to Github](https://lab.github.com/githubtraining/introduction-to-github)
 * [More GitHub Courses](https://lab.github.com/)
 * [Practicing How to Use Git](https://github.com/benthayer/git-gud)
