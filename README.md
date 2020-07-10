@@ -18,6 +18,7 @@
  * [Mozilla](https://developer.mozilla.org/en-US/docs/Learn)
  * [LearnJS](https://github.com/CodeNerve/LearnJavaScript)
  * [Technotica Curriculum](https://github.com/Techtonica/curriculum)
+ * [Harvard CS50 Web Programmin](https://cs50.harvard.edu/web/2020/)
 
  ### Designs
  * [Google Fonts](https://fonts.google.com/)
