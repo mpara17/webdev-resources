@@ -1,15 +1,23 @@
 <h1 align="center">Ultimate Web Development Resources 💻</h1></br>
 
-<p align="center">
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
- </p>
-
 
 <p align="center">The ultimate repository full of resources to learn about web development, design, git, and more! 
- [continuosly updated] </p></br>
+ </p></br>
+ 
+## Contents
+-[Learning Web Development](#webdevelopment)
+-[Designs]
+-[Site Templates]
+-[Prototyping]
+-[Github]
+-[IDEs]
+-[Blogs]
+-[Challenges]
+-[Additional Resources]
 
-
+## WebDevelopment
  ### Best Sites for Learning ANYTHING Web Development Related
  * [W3Schools](https://www.w3schools.com/)
  * [FreeCodeCamp](https://www.freecodecamp.org/)
