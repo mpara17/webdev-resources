@@ -1,4 +1,5 @@
 <h1 align="center">Awesome Web Development Resources💻</h1></br>
+
 ## Hello 👋
  This repository was made initially as a resource guide for students participating in the Kode with Klossy Web Development Camps for Summer 2020, however, it is also now a crowdsource place full of useful sources to learn about web development along other with other useful tools - such as navigating Git and using Github - as you navigate your time as a developer. 
  
