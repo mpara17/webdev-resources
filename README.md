@@ -24,7 +24,7 @@ The ultimate repository full of resources to learn about web development, design
 
 - [Additional Resources](#additionalresources)
 
-- [Contributing](#contributing)
+:memo: [**Contributing**](#memo-contributing)
 
 ---- 
 ## WebDevelopment
