@@ -26,6 +26,7 @@ The ultimate repository full of resources to learn about web development, design
 
 - [Contributing](#contributing)
 
+---- 
 ## WebDevelopment
  ### Best Sites for Learning ANYTHING Web Development Related
  * [W3Schools](https://www.w3schools.com/)
