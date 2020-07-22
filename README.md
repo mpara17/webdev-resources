@@ -1,9 +1,9 @@
-<h1 align="center">Ultimate Web Development Resources 💻</h1></br>
+### Ultimate Web Development Resources 💻
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
-<p align="center">The ultimate repository full of resources to learn about web development, design, git, and more! 
- </p></br>
+The ultimate repository full of resources to learn about web development, design, git, and more! 
+
  
 ## Contents
 - [Learning Web Development](#webdevelopment)
