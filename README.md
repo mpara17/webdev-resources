@@ -21,9 +21,11 @@
 
 - [Blogs](#blogs)
 
-- [Challenges](#challenges)
+- [Challenges](#Challenges)
 
 - [Additional Resources](#additionalresources)
+
+-[Contributing](#contributing)
 
 ## WebDevelopment
  ### Best Sites for Learning ANYTHING Web Development Related
@@ -91,7 +93,7 @@
 * [Better Programming](https://medium.com/better-programming)
 
 ## Challenges
-### Doing challenges are a great way to expand your skill set and to create projects
+### Doing challenges are a great way to expand your skill set and to create projects! Here are some challenges to look at below
 * [7 Days, 7 Websites](https://www.freecodecamp.org/news/the-7days7websites-coding-challenge/)
 * [#100DaysOfCode](https://www.100daysofcode.com/)
 * [Contributing to Open Source Projects](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
@@ -105,6 +107,8 @@
 * [Contributing to Open Source](https://opensource.guide/how-to-contribute/)
 * [Missing Semester of your CS Education](https://missing.csail.mit.edu/)
 * [Developer Roadmaps](https://roadmap.sh/guides)
+
+## Contributing
 
 
 
