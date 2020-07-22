@@ -2,7 +2,11 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
-The ultimate repository full of resources to learn about web development, design, git, and more! 
+The ultimate repository full of resources to learn about web development, design, git, and more!
+
+This repository started as an extension guide for web development resources that Kode With Klossy Web Dev students can refer to as a way to further expand their webdev abilities after the camp. However, I've expanded this doc for anyone willing to learn webdev here, not just those in Kode With Klossy. The list will be updated throughout time and feel free to look around or make a pull request here!
+
+Happy Learning!
 
  
 ## Contents
@@ -32,6 +36,7 @@ The ultimate repository full of resources to learn about web development, design
  * [W3Schools](https://www.w3schools.com/)
  * [FreeCodeCamp](https://www.freecodecamp.org/)
  * [Codecademy](https://www.codecademy.com/catalog/subject/web-development)
+ * [Educative](educative.io)
  * [Django Tutorial](https://tutorial.djangogirls.org/en/)
  * [ReactJS](https://reactjs.org/tutorial/tutorial.html)
     * [Setting Up React](https://www.codecademy.com/articles/how-to-create-a-react-app)
