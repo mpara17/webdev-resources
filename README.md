@@ -36,7 +36,7 @@ Happy Learning!
  * [W3Schools](https://www.w3schools.com/)
  * [FreeCodeCamp](https://www.freecodecamp.org/)
  * [Codecademy](https://www.codecademy.com/catalog/subject/web-development)
- * [Educative](educative.io)
+ * [Educative](https://www.educative.io/learn)
  * [Django Tutorial](https://tutorial.djangogirls.org/en/)
  * [ReactJS](https://reactjs.org/tutorial/tutorial.html)
     * [Setting Up React](https://www.codecademy.com/articles/how-to-create-a-react-app)
