@@ -7,14 +7,22 @@
  </p></br>
  
 ## Contents
--[Learning Web Development](#webdevelopment)
+- [Learning Web Development](#webdevelopment)
+
 -[Designs]
+
 -[Site Templates]
+
 -[Prototyping]
+
 -[Github]
+
 -[IDEs]
+
 -[Blogs]
+
 -[Challenges]
+
 -[Additional Resources]
 
 ## WebDevelopment
