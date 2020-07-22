@@ -79,10 +79,11 @@ The ultimate repository full of resources to learn about web development, design
 * [FORK this repo](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 
  ## IDEs
- ### 👩‍💻 👨‍💻 Free Online IDEs to help you get started
 * [Repl.it](https://repl.it/)
 * [Code Pen](https://codepen.io/)
 * [Glitch](https://glitch.com/)
+* [Atom](https://atom.io/)
+* [VSCode](https://code.visualstudio.com/)
 
 ## Blogs
 ### 📰 BLOGS TO CHECK OUT 
@@ -107,7 +108,7 @@ The ultimate repository full of resources to learn about web development, design
 * [Missing Semester of your CS Education](https://missing.csail.mit.edu/)
 * [Developer Roadmaps](https://roadmap.sh/guides)
 
-## :memo: contributing
+## :memo: Contributing
  See [contributing.md](contributing.md)
 
 
