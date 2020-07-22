@@ -24,7 +24,7 @@ The ultimate repository full of resources to learn about web development, design
 
 - [Additional Resources](#additionalresources)
 
-- [Contributing](#Contributing)
+- [Contributing](#contributing)
 
 ## WebDevelopment
  ### Best Sites for Learning ANYTHING Web Development Related
@@ -107,7 +107,7 @@ The ultimate repository full of resources to learn about web development, design
 * [Missing Semester of your CS Education](https://missing.csail.mit.edu/)
 * [Developer Roadmaps](https://roadmap.sh/guides)
 
-## :memo: Contributing
+## :memo: contributing
  See [contributing.md](contributing.md)
 
 
