@@ -9,21 +9,21 @@
 ## Contents
 - [Learning Web Development](#webdevelopment)
 
--[Designs](#designs)
+- [Designs](#designs)
 
--[Site Templates](#templates)
+- [Site Templates](#templates)
 
--[Prototyping](#prototyping)
+- [Prototyping](#prototyping)
 
--[Github](#github)
+- [Github](#github)
 
--[IDEs](#IDEs)
+- [IDEs](#IDEs)
 
--[Blogs]
+- [Blogs](#blogs)
 
--[Challenges]
+- [Challenges](#challenges)
 
--[Additional Resources]
+- [Additional Resources](#additionalresources)
 
 ## WebDevelopment
  ### Best Sites for Learning ANYTHING Web Development Related
@@ -77,14 +77,26 @@
 * [Showcase Portfolio through Github Pages](https://github.dev/)
 * [FORK this repo](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 
- ##IDEs
+ ## IDEs
  ### 👩‍💻 👨‍💻 Free Online IDEs to help you get started
 * [Repl.it](https://repl.it/)
 * [Code Pen](https://codepen.io/)
 * [Glitch](https://glitch.com/)
 
+## Blogs
+### 📰 BLOGS TO CHECK OUT 
+* [freeCodeCamp](https://www.freecodecamp.org/news/)
+* [CodePath](https://blog.codepath.org/)
+* [Tech Together](https://medium.com/techtogether)
+* [Better Programming](https://medium.com/better-programming)
 
-### ADDITIONAL RESOURCES
+## CHALLENGES
+* [7 Days, 7 Websites](https://www.freecodecamp.org/news/the-7days7websites-coding-challenge/)
+* [#100DaysOfCode](https://www.100daysofcode.com/)
+* [Contributing to Open Source Projects](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
+* [List of Hackathons](https://mlh.io/seasons/na-2020/events)
+
+## ADDITIONAL RESOURCES
 * [Ways to get involved with Women in Tech!](https://github.com/nishapant/Women-in-Tech-Resources)
 * [Impactful](https://weareimpactful.org/?fbclid=IwAR1w5zp9XhK1jcCj0DVCttMCtOMOZt7AAQaf6x3nZJvBU76MuwN2OROM7a4#home)
 * [Adding Google Analytics to Website](https://www.pair.com/support/kb/how-to-google-analytics-to-an-html-website/)
@@ -93,16 +105,6 @@
 * [Missing Semester of your CS Education](https://missing.csail.mit.edu/)
 * [Developer Roadmaps](https://roadmap.sh/guides)
 
-### 📰 BLOGS TO CHECK OUT 
-* [freeCodeCamp](https://www.freecodecamp.org/news/)
-* [CodePath](https://blog.codepath.org/)
-* [Tech Together](https://medium.com/techtogether)
-* [Better Programming](https://medium.com/better-programming)
 
-### ✅ CHALLENGES
-* [7 Days, 7 Websites](https://www.freecodecamp.org/news/the-7days7websites-coding-challenge/)
-* [#100DaysOfCode](https://www.100daysofcode.com/)
-* [Contributing to Open Source Projects](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
-* [List of Hackathons](https://mlh.io/seasons/na-2020/events)
 
 
