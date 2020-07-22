@@ -9,15 +9,15 @@
 ## Contents
 - [Learning Web Development](#webdevelopment)
 
--[Designs]
+-[Designs](#designs)
 
--[Site Templates]
+-[Site Templates](#templates)
 
--[Prototyping]
+-[Prototyping](#prototyping)
 
--[Github]
+-[Github](#github)
 
--[IDEs]
+-[IDEs](#IDEs)
 
 -[Blogs]
 
@@ -41,7 +41,7 @@
  * [Technotica Curriculum](https://github.com/Techtonica/curriculum)
  * [Harvard CS50 Web Programmin](https://cs50.harvard.edu/web/2020/)
 
- ### Designs
+ ## Designs
  * [Google Fonts](https://fonts.google.com/)
  * [HTML ColorCode](https://htmlcolorcodes.com/)
  * [Font Awesome](https://fontawesome.com/v4.7.0/icons/)
@@ -51,7 +51,7 @@
  * [CSS Animated & Gradient Background](https://uigradients.com/#SandtoBlue)
  * [Bootstrap](https://getbootstrap.com/)
 
- ### Templates
+ ## Templates
  * [HTML5UP](https://html5up.net/)
  * [JSON Resume](https://jsonresume.org/getting-started/)
  * [urspace](https://urspace.io/) customized templates
@@ -59,13 +59,13 @@
  * [Some more templates](https://html.com/resources/free-html-templates/)
  * [w3 Schools Bootstrap Theme](https://www.w3schools.com/bootstrap4/bootstrap_templates.asp) Bootstrap is a front-end framework that allows your site to be more responsive across all devices!
 
- ### 🛠️ Tools to use for prototyping apps or websites
+ ## Prototyping
  * [Proto.io](https://proto.io/) - keep in mind you only have a 14 day free trial
  * [Figma](https://www.figma.com/blog/)
  * [Bubble.io](https://bubble.io/) Easy and free tool to create mockups
  * [Check this Medium blog out](https://medium.com/@denisz.design/the-9-best-go-to-prototyping-tools-for-designers-in-2019-296b341a51a2)
 
- ### Github
+ ## Github
 * [Github Guides](https://guides.github.com/activities/hello-world/)
 * [Introduction to Github](https://lab.github.com/githubtraining/introduction-to-github)
 * [More GitHub Courses](https://lab.github.com/)
@@ -77,6 +77,7 @@
 * [Showcase Portfolio through Github Pages](https://github.dev/)
 * [FORK this repo](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 
+ ##IDEs
  ### 👩‍💻 👨‍💻 Free Online IDEs to help you get started
 * [Repl.it](https://repl.it/)
 * [Code Pen](https://codepen.io/)
