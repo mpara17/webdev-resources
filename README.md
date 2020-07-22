@@ -1,4 +1,6 @@
 <h1 align="center">Ultimate Web Development Resources 💻</h1></br>
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  
 
 <p align="center">The ultimate repository full of resources to learn about web development, design, git, and more! 
  [continuosly updated] </p></br>
