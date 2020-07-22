@@ -1,6 +1,7 @@
 <h1 align="center">Awesome Web Development Resources💻</h1></br>
 
-<p align="center">The ultimate repository full of resources to learn about web development, design, git, and more! [continuosly updated] </p></br>
+<p align="center">The ultimate repository full of resources to learn about web development, design, git, and more! 
+ [continuosly updated] </p></br>
 
 
  ### Best Sites for Learning ANYTHING Web Development Related
