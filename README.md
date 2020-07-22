@@ -1,4 +1,4 @@
-<h1 align="center">Awesome Web Development Resources💻</h1></br>
+<h1 align="center">Ultimate Web Development Resources 💻</h1></br>
 
 <p align="center">The ultimate repository full of resources to learn about web development, design, git, and more! 
  [continuosly updated] </p></br>
@@ -60,12 +60,6 @@
 * [Code Pen](https://codepen.io/)
 * [Glitch](https://glitch.com/)
 
- ### EXTENSION: Building Your Own KWK Portfolio!
- Throughout the duration of the web development camp, you will be building a lot of very cool projects so why not show them off? A porfolio would be a great way to showcase all the projects you've done to show off to your friends, family, recruiters, etc.
-
-See this [tutorial](https://medium.com/techtogether/how-to-make-your-first-portfolio-hosted-on-github-1e5940853fcc) I wrote on how to host your website through Github pages
-
-Here is another [resource](https://github.dev/) to help you build a portfolio to showcase your projects! If you are a student and have a school email, you can register for [Github Pro](https://education.github.com/pack) that gives you free tools to use like a .me domain and other resources
 
 ### ADDITIONAL RESOURCES
 * [Ways to get involved with Women in Tech!](https://github.com/nishapant/Women-in-Tech-Resources)
