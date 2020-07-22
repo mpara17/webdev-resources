@@ -25,7 +25,7 @@
 
 - [Additional Resources](#additionalresources)
 
--[Contributing](#contributing)
+- [Contributing](#contributing)
 
 ## WebDevelopment
  ### Best Sites for Learning ANYTHING Web Development Related
@@ -40,8 +40,8 @@
     * [Mini Web Dev Bootcamp](https://www.notion.so/Curriculum-ca431096426b4fd1968ac49121ff2fdb)
  * [Mozilla](https://developer.mozilla.org/en-US/docs/Learn)
  * [LearnJS](https://github.com/CodeNerve/LearnJavaScript)
- * [Technotica Curriculum](https://github.com/Techtonica/curriculum)
- * [Harvard CS50 Web Programmin](https://cs50.harvard.edu/web/2020/)
+ * [Techntonica Curriculum](https://github.com/Techtonica/curriculum)
+ * [Harvard CS50 Web Programming](https://cs50.harvard.edu/web/2020/)
 
  ## Designs
  * [Google Fonts](https://fonts.google.com/)
@@ -108,8 +108,8 @@
 * [Missing Semester of your CS Education](https://missing.csail.mit.edu/)
 * [Developer Roadmaps](https://roadmap.sh/guides)
 
-## Contributing
-
+## :memo: Contributing
+ See [contributing.md](contributing.md)
 
 
 
