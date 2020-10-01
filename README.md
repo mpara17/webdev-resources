@@ -104,7 +104,7 @@ Happy Learning!
 * [#100DaysOfCode](https://www.100daysofcode.com/)
 * [Contributing to Open Source Projects](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
 * [List of Hackathons](https://mlh.io/seasons/na-2020/events)
-* [JS Challenges] (https://jsbeginners.com/javascript-projects-for-beginners/#list)
+* [JS Challenges](https://jsbeginners.com/javascript-projects-for-beginners/#list)
 
 ## Additional Resources
 * [Ways to get involved with Women in Tech!](https://github.com/nishapant/Women-in-Tech-Resources)
