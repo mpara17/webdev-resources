@@ -114,7 +114,7 @@ Happy Learning!
 * [Contributing to Open Source](https://opensource.guide/how-to-contribute/)
 * [Missing Semester of your CS Education](https://missing.csail.mit.edu/)
 * [Developer Roadmaps](https://roadmap.sh/guides)
-
+* [Github Student Pack](https://education.github.com/pack)
 ## :memo: Contributing
  See [contributing.md](contributing.md)
 
